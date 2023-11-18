@@ -1,0 +1,4 @@
+Antes de tudo abre o ficheiro cmd para instalar os pacotes necessários para o script.
+Depois ao instalar o script vai ser iniciado automáticamente.
+Depois de entrar no jogo é só apertar F5 e vai ser digitado os JJ / Polichinelos automaticamente até 50.
+Para parar o script é só fechar o cmd.
